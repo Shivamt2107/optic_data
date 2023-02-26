@@ -1301,5 +1301,19 @@
       "category": "aviator"
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "product_image": "https://static5.lenskart.com/media/catalog/product/pro/1/thumbnail/628x301/9df78eab33525d08d6e5fb8d27136e95//l/e/lenskart-air-la-e13850-c2-eyeglasses_G_1892.jpg",
+      "rating_value": "4.7",
+      "rating_count": "45",
+      "product_name": "Lenskart Air Online",
+      "size": "Medium",
+      "tags": "Air Signia",
+      "product_price": 999,
+      "strike_through": "5000",
+      "product_offer": "60% OFF. Use: EYECON",
+      "id": 20,
+      "category": "eyeglasses-mix"
+    }
+  ]
 }
